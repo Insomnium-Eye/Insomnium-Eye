@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.a431ea34.chunk.css",
-    "main.js": "/static/js/main.93c128dd.chunk.js",
-    "main.js.map": "/static/js/main.93c128dd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.24f67710.js",
-    "runtime-main.js.map": "/static/js/runtime-main.24f67710.js.map",
-    "static/css/2.02597436.chunk.css": "/static/css/2.02597436.chunk.css",
-    "static/js/2.13f911e3.chunk.js": "/static/js/2.13f911e3.chunk.js",
-    "static/js/2.13f911e3.chunk.js.map": "/static/js/2.13f911e3.chunk.js.map",
-    "static/js/3.2f814c84.chunk.js": "/static/js/3.2f814c84.chunk.js",
-    "static/js/3.2f814c84.chunk.js.map": "/static/js/3.2f814c84.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.02597436.chunk.css.map": "/static/css/2.02597436.chunk.css.map",
-    "static/css/main.a431ea34.chunk.css.map": "/static/css/main.a431ea34.chunk.css.map",
-    "static/js/2.13f911e3.chunk.js.LICENSE.txt": "/static/js/2.13f911e3.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Eccentric.6ac6bf38.otf"
+    "main.css": "/Insomnium-Eye/static/css/main.d32e0bfa.chunk.css",
+    "main.js": "/Insomnium-Eye/static/js/main.7be6baa3.chunk.js",
+    "main.js.map": "/Insomnium-Eye/static/js/main.7be6baa3.chunk.js.map",
+    "runtime-main.js": "/Insomnium-Eye/static/js/runtime-main.ec04605f.js",
+    "runtime-main.js.map": "/Insomnium-Eye/static/js/runtime-main.ec04605f.js.map",
+    "static/css/2.02597436.chunk.css": "/Insomnium-Eye/static/css/2.02597436.chunk.css",
+    "static/js/2.6cfa0ec5.chunk.js": "/Insomnium-Eye/static/js/2.6cfa0ec5.chunk.js",
+    "static/js/2.6cfa0ec5.chunk.js.map": "/Insomnium-Eye/static/js/2.6cfa0ec5.chunk.js.map",
+    "static/js/3.2f814c84.chunk.js": "/Insomnium-Eye/static/js/3.2f814c84.chunk.js",
+    "static/js/3.2f814c84.chunk.js.map": "/Insomnium-Eye/static/js/3.2f814c84.chunk.js.map",
+    "index.html": "/Insomnium-Eye/index.html",
+    "static/css/2.02597436.chunk.css.map": "/Insomnium-Eye/static/css/2.02597436.chunk.css.map",
+    "static/css/main.d32e0bfa.chunk.css.map": "/Insomnium-Eye/static/css/main.d32e0bfa.chunk.css.map",
+    "static/js/2.6cfa0ec5.chunk.js.LICENSE.txt": "/Insomnium-Eye/static/js/2.6cfa0ec5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Insomnium-Eye/static/media/Eccentric.6ac6bf38.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.24f67710.js",
+    "static/js/runtime-main.ec04605f.js",
     "static/css/2.02597436.chunk.css",
-    "static/js/2.13f911e3.chunk.js",
-    "static/css/main.a431ea34.chunk.css",
-    "static/js/main.93c128dd.chunk.js"
+    "static/js/2.6cfa0ec5.chunk.js",
+    "static/css/main.d32e0bfa.chunk.css",
+    "static/js/main.7be6baa3.chunk.js"
   ]
 }
