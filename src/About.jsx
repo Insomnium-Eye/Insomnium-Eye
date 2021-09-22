@@ -33,12 +33,13 @@ const About = () => {
   );
 };
 
+const contentStyle = {position: 'fixed', top: '50px', left: '25%', maxHeight: '85%', width: '50%', backgroundColor: 'black', overflow: 'scroll', overflowX: 'hidden'}
 const DGPPopup = () => {
   return(
-    <Popup trigger={<button className="modalButton"> Open Modal </button>} modal>
-    <DGP/>
-  </Popup>
+    <Popup trigger={<button> Open Modal </button>} modal {...{DGPPopup, contentStyle}}>
+      <DGP/>
+    </Popup>
   );
 }
-  
+ 
 export default About;

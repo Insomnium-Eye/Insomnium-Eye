@@ -18,9 +18,45 @@ body{
   text-shadow: 1px 1px 5px black;
 }
 
-.modal{
-  width: 55%;
+.profileButtons{
+  color: white;
+  text-align: center;
 }
+
+.profileButtons td{
+  padding: 10px;
+}
+.profileInnerh1{
+  color: white;
+  font-family:'Eccentric';
+  position: absolute;
+  display: block;
+  margin-top: -150px;
+  text-align: center;
+}
+
+.profileInnerText{
+  color: white;
+  font-family: Arial;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.popup-content{
+  margin-top: 400px;
+  width: 20%;
+}
+
+.modalHeaderImg{
+  max-width: 100%;
+  max-width: 100%;
+  object-fit: fill;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: inline-block;
+}
+
 
 .abtButton{
   position: relative;
