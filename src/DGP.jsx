@@ -13,7 +13,7 @@ const DGP = () => {
                    was unable to due to real-life responsibilities. I attended universtity from 2016 to 2021, and I'm finally able to trully dedicate 
                    myself to Insomnium-Eye and it's projects.</p>
                    <table className="profileButtons" style={{marginLeft: '250px'}}>
-                    <tr onClick="window.location.href="><td><AiOutlineMail/></td><td><AiFillLinkedin/></td><td><AiFillGithub/></td></tr>
+                    <tr><td><AiOutlineMail/></td><td><AiFillLinkedin/></td><td><AiFillGithub/></td></tr>
                    <tr><td><a>Contact</a></td><td><a href="https://www.linkedin.com/in/davidgpiper1/">LinkedIn</a></td><td><a href="https://github.com/Insomnium-EyeGitHub">GitHub</a></td></tr></table>
                    
             </div>

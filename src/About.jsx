@@ -10,7 +10,7 @@ const About = () => {
       <h1 className="abtHead">About Page</h1>
       <div className="topText"> 
         <p>
-        We are a group of artists, writers, GEESE and programmers with a vision to bring unique, quality content to our readers, players, and viewers.
+        We are a group of artists, writers, programmers with a vision to bring unique, quality content to our readers, players, and viewers.
         In an age of censorship, we seek to tell stories as they ferment in the creator's mind, free of any coercive influence. <br/>
         We believe content is at its best when the creator's vision is unimpeded.
         </p>
