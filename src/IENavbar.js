@@ -1,17 +1,18 @@
+import React from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 
 import { NavLink, Link} from "react-router-dom";
 
 
-function IENavbar(props){
+function IENavbar (props){
+
     var logoStroke = "/logo_stroke.png";
     var logo = "/logo.png"
     var srcV = logoStroke;
     var isNotHome = false;
-    var p = document.getElementById(props);
-    var e;
-    
-    if(props.props !== "/"){
+
+    console.log("props: " + props.page);
+    if(props.page !== "/"){
         srcV = logo;
         isNotHome = true;
     }
@@ -25,7 +26,8 @@ function IENavbar(props){
                 fixed= "top">
                 <Container>
                     <Nav className="LinkNav">
-                        <NavLink tag={Link} to="/"> 
+                        <NavLink tag={Link} to="/">
+                            
                             <img
                                 alt="IEye Logo"
                                 src= {srcV}
@@ -48,6 +50,7 @@ function IENavbar(props){
             
         </>
     );
+    
 }
 
 

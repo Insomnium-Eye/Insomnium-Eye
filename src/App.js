@@ -15,14 +15,12 @@ function App() {
   return (
     
       <div className="App" style={{ backgroundImage: "url(/images/bg.jpg)"}}>
-          
-          <IENavbar/>
           <div className="content">
-              <Route exact path= "/" component={Home} IENavbar={"/"}/>
-              <Route exact path= "/games" component={Games} IENavbar={"/games"}/>
-              <Route exact path= "/comics" component={Comics} IENavbar={"/comics"}/>
-              <Route exact path= "/about" component={About} IENavbar={"/about"}/>
-              <Route exact path= "/contact" component={Contact} IENavbar={"/contact"}/>
+              <Route exact path= "/"><IENavbar page="/"/><Home/></Route>
+              <Route exact path= "/games"><IENavbar page="/games"/><Games/></Route>
+              <Route exact path= "/comics"><IENavbar page="/comics"/><Comics/></Route>
+              <Route exact path= "/about"><IENavbar page="/about"/><About/></Route>
+              <Route exact path= "/contact"><IENavbar page="/contact"/><Contact/></Route>
             <IEfooter/>
           </div>
           

@@ -4,8 +4,9 @@
 
 .layout{
   width: 60%;
-  margin-top: 10px;
+  margin-top: 5px;
   margin-left: 20%;
+  padding-bottom: 50px;
   min-height: 730px;
   color: white;
   background-color: transparent;
@@ -64,7 +65,7 @@ body{
   top: 10px;
 }
 
-.profileDiv{
+.profileAdminDiv{
   border-color: white;
   border-style: double;
   padding-bottom: 20px;
@@ -72,14 +73,39 @@ body{
   margin-right: 10px;
 }
 
-.profileTable{
-  text-align: left;
+.profileDivWrapper{
+  justify-content: center;
+  position: relative;
+  align-items: center;
+  display: inline-block;
+}
+
+.profileDiv{
+  border-color: white;
+  border-style: double;
+  padding-bottom: 20px;
+  width: 464px;
+}
+
+.profileWrapper{
+  text-align: center;
   font-size: 15px;
-  
+}
+
+.profileImgHolder{
+  border-style: solid;
+  border-color: white;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 50%;
+  margin-left: -75px;
+  margin-top: 1%;
 }
 .profileTableImg{
-  float: left;
-  margin: 5px;
+
+  width: 100%;
+  height: 100%;
 }
 .profileTable th{
   font-family: Eccentric;
