@@ -28,7 +28,7 @@ const About = () => {
       <div className="profileDiv">
         <div className="profileImgHolder"><img className="profileTableImg" src= "/images/GoosePic.png"/></div>
         <div className="profileWrapper">
-          <h1>Harry Goose Waters</h1>
+          <h1>Harry Waters</h1>
           <p>Artist</p>
           <GoosePopup/>
         </div>
